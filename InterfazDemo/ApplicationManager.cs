@@ -7,9 +7,15 @@ namespace InterfazDemo
 {
     class ApplicationManager
     {
-        public void MakeApplication(ICreditManeger creditManeger)
+        public void MakeApplication(ICreditManeger creditManeger,List<ILoggerService> loggerServices )
         {
             creditManeger.Calculate();
+            foreach (var loggerService in loggerServices)
+            {
+                loggerService.Logg();
+            }
+            
+          
         }
         public void CalsulateCredits(List<ICreditManeger> creditManegers)
         {

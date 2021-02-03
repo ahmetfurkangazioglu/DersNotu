@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCreate", "ListCreate\Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionaryDemo", "MyDictionaryDemo\MyDictionaryDemo.csproj", "{60D75E73-660A-48A4-9BF0-5285E38E699A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop", "Oop\Oop.csproj", "{C264CEFE-C0F3-4D7B-9156-D88B0D8D468B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop", "Oop\Oop.csproj", "{C264CEFE-C0F3-4D7B-9156-D88B0D8D468B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfazDemo", "InterfazDemo\InterfazDemo.csproj", "{BC4195F7-C5FB-4331-B895-29E0814D96B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfazDemo", "InterfazDemo\InterfazDemo.csproj", "{BC4195F7-C5FB-4331-B895-29E0814D96B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
