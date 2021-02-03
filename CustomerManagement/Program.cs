@@ -24,6 +24,8 @@ namespace CustomerManagement
 
             customerManeger.List(customer1);
             customerManeger.List(customer2);
+
+          
         }
     }
 }
